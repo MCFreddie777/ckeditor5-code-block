@@ -3,7 +3,7 @@
   "_id": "@ckeditor/ckeditor5-block-quote@10.1.1",
   "_inBundle": false,
   "_integrity": "sha512-VH6niPcrMqW6I0PobeNLFdt6jo5Xkfr7fU2hPdB0AQ4i/glAnWlkTLS18Rs6aOsOog/9n3B7vgvFv1ufHLmx4w==",
-  "_location": "/@ckeditor/ckeditor5-block-quote",
+  "_location": "/@mcfreddie777/ckeditor5-code-block",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
