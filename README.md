@@ -25,7 +25,7 @@ npm install https://github.com/MCFreddie777/ckeditor5-code-block
 Update src/ckeditor.js with:
 
 ```js
-import CodeBlock from '@mcfreddie777/code-block/src/codeblock';
+import CodeBlock from '@mcfreddie777/ckeditor5-code-block/src/codeblock';
 
 ClassicEditor.builtinPlugins = [
   // ...
