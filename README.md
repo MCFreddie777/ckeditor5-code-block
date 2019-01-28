@@ -11,11 +11,8 @@ I took the built-in blockquote plugin, and edited it - the result is a new featu
 See https://github.com/ckeditor/ckeditor5/issues/436
   
 ## Issues
-------
 
 Feel free to submit issues and enhancement requests.
-
-
 
 ## Usage
 
