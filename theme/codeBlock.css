@@ -1,0 +1,18 @@
+/**
+ * @license Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+ * For licensing, see LICENSE.md.
+ */
+
+.ck-content code {
+	overflow: hidden;
+	margin-left: 0;
+	background: #eeeef4;
+	border: 1px solid #ccc;
+	color: #333;
+	padding: .5rem 1rem;
+	display: inline-block;
+}
+
+.ck-content code p {
+	margin:0;
+}
